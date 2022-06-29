@@ -1,0 +1,202 @@
+body{
+  color: #345678;
+  font-family: monospace,sans-serif,serif;
+  margin: 0;
+  text-align: center;
+}
+.myself{
+  background-color: rgb(192, 255, 229);
+  padding: 120px;
+}
+h1{
+  color: white;
+  font-family: cursive,fantasy,monospace;
+  font-size: 7rem;
+  margin: 0 auto 0 auto;
+  color: #432156;
+}
+h2{
+  color: white;
+  font-family: fantasy,sans-serif,fantasy;
+  font-size: 1.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+h3{
+  color:#345678;
+  font-family: cursive,sans-serif,serif;
+}
+.message{
+  color: #435675;
+  font-family: cursive,monospace,fantasy;
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 70px;
+  margin-top: 50px;
+}
+.introduction{
+  font-size: 1.17em;
+  margin-block-start:1em;
+    margin-block-end:1em;
+      margin-inline-start:0px;
+        margin-inline-end:0px;
+        color:#0f5279;
+        line-height: 2;
+        font-weight: 700;
+        width: 40%;
+        margin: auto;
+        padding-bottom: 35px;
+}
+hr{
+  border-style: none;
+  border-top-style:dotted;
+  border-width: 5px;
+  border-color: grey;
+  width: 4%;
+  color: #532467;
+}
+.leftimage{
+  border-radius: 50%;
+  background-color: #432156;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.rightimage{
+  border-radius: 50%;
+  background-color: #455677;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.skill-row{
+  width: 50%;
+  margin: 10px auto 120px auto;
+  color: #213455;
+}
+.skill{
+  margin-top: 80px;
+  color: #123e45;
+}
+p{
+  line-height: 2;
+  font-weight: 700;
+  color: #432876;
+}
+.button{
+  background-color: #984380;
+  border-radius: 12px;
+  color:pink;
+  font-family: cursive,fantasy,monospace;
+  padding: 15px;
+  text-decoration: none;
+}
+.button:hover{
+  background-color: #476189;
+  border-radius: 12px;
+  color: red;
+  font-family: fantasy,monospace,sans-serif;
+  padding: 15px;
+  text-decoration: none;
+}
+.button:hover{
+  background-color: #7c4789;
+}
+.footer{
+  background-color: #5c0e2b;
+  padding: 50px 0 20px;
+}
+.footer a{
+  color: #7c4789;
+}
+a{
+  text-decoration: none;
+  color: #432545;
+}
+.link{
+  padding: 10px;
+  color: #b315a5;
+}
+.link:hover{
+  color:rgb(179, 188, 212);
+}
+.contact{
+  margin: 70px 0px;
+  color: #651249;
+}
+.nav{
+  background-color: white;
+  padding: 20px;
+  position: static;
+  top: 0;
+  font-style: oblique;
+  font-family: cursive;
+  font-stretch: expanded;
+  font-kerning: normal;
+  font-weight: bolder;
+  border-bottom: solid;
+  border-top: solid;
+  border-right: solid;
+  border-left: solid;
+  border-color: #432567;S
+}
+a{
+  padding-right: 40px;
+}
+a:hover{
+  color: #7c4789;
+}
+.my-education{
+  background-color:rgb(192, 224, 255);
+  padding: 50px;
+}
+.education{
+  color: #460e5c;
+  font-family: monospace,sans-serif;
+  font-size: 2rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+.linkedin a {
+  color:#473291;
+  font-family: serif;
+}
+.edu-data-li{
+  padding: 10px;
+}
+li{
+  list-style-type: none;
+}
+.my-workexperience {
+  background-color: #69f274;
+  padding:50px;
+}
+.pen{
+  color: #d7611d;
+  font-family: monospace;
+  font-size: 2rem;
+  font-weight: normal;
+  padding-bottom: 18px;
+}
+.link-web{
+  line-height: 3;
+}
+.my-skills{
+  background-color: #b46784;
+  padding: 50px;
+}
+.skills-data{
+  margin:0 auto 30px;
+  width:50%;
+}
+table{
+  font-family: sans-serif;
+  margin: auto;
+}
+td{
+  padding: 10px;
+  text-align: center;
+}
+.nav a{
+  color:#48b39e;
+}
